@@ -27,4 +27,4 @@ while True:
     bg = red
 
   # Display the scrolling message
-  sense.show_message(message, scroll_speed=0.05, back_colour=bg)
+  sense.show_message(message, scroll_speed=0.5, back_colour=bg)
